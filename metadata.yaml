@@ -1,0 +1,40 @@
+_repo: Eugene-Oneguine--Onegin---13-A-Romance-of-Russian-Life-in-Verse_23997
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Spalding, Henry
+    gutenberg_agent_id: '26235'
+    url: http://www.gutenberg.org/2009/agents/26235
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Пушкин, Александр Сергеевич
+    - Poushkin, Alexander
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://www.museum.ru/Pushkin/
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2007-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novels in verse'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+title: "Eugene Oneguine [Onegin]\r\nA Romance of Russian Life in Verse"
+url: http://www.gutenberg.org/ebooks/23997
